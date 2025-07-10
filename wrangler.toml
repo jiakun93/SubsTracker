@@ -10,8 +10,8 @@ name = "substracker"
 name = "substracker-staging"
 
 # KV 命名空间配置
-[[kv_namespaces]]
-binding = "SUBSCRIPTIONS_KV"
+# [[kv_namespaces]]
+# binding = "SUBSCRIPTIONS_KV"
 # preview_id = "your-preview-kv-namespace-id"
 # id = "your-production-kv-namespace-id"
 
